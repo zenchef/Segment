@@ -5,16 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "James Brooks",
-            "email": "james@alt-three.com"
-        },
-        {
-            "name": "Graham Campbell",
-            "email": "graham@alt-three.com"
-        },
-        {
-            "name": "Joseph Cohen",
-            "email": "joe@alt-three.com"
+            "name": "Alt Three",
+            "email": "support@alt-three.com"
         }
     ],
     "require": {
@@ -24,9 +16,9 @@
         "segmentio/analytics-php": "1.5.*"
     },
     "require-dev": {
-        "graham-campbell/analyzer": "^1.1",
-        "graham-campbell/testbench": "^4.0",
-        "phpunit/phpunit": "^6.0"
+        "graham-campbell/analyzer": "^2.0",
+        "graham-campbell/testbench": "^4.0|^5.0",
+        "phpunit/phpunit": "^6.5"
     },
     "autoload": {
         "psr-4": {
